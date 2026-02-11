@@ -45,6 +45,7 @@ Welcome to my GitHub profile! I'm a passionate learner currently **pursuing Java
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ## 📂 My Projects
 
@@ -63,13 +64,12 @@ Welcome to my GitHub profile! I'm a passionate learner currently **pursuing Java
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-![Sinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinexhhh&show_icons=true&theme=default&count_private=true&hide_title=true&hide=prs,issues)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinexhhh&layout=compact&theme=default&langs_count=6)
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sinexhhh&theme=default)
-  
+https://github-readme-stats.vercel.app/api?username=Sinexhhh&show_icons=true&theme=default&count_private=true&hide_title=true&hide=prs,issues
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Sinexhhh&layout=compact&theme=default&langs_count=6
+
+https://github-readme-streak-stats.herokuapp.com/?user=Sinexhhh&theme=default
+
 </div>
 
 ## 📚 Learning Resources
