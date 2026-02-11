@@ -37,7 +37,6 @@ Welcome to my GitHub profile! I'm a passionate learner currently **pursuing Java
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
 ### **Databases & Tools**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -65,11 +64,11 @@ Welcome to my GitHub profile! I'm a passionate learner currently **pursuing Java
 
 <div align="center">
   
-![Sinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sinexhhh&show_icons=true&theme=default&count_private=true&hide_title=true&hide=prs,issues)
+![Sinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinexhhh&show_icons=true&theme=default&count_private=true&hide_title=true&hide=prs,issues)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinexhhh&layout=compact&theme=default&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinexhhh&layout=compact&theme=default&langs_count=6)
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sinexhhh&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sinexhhh&theme=default)
   
 </div>
 
