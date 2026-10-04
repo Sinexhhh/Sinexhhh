@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sinexhhh\&color=blue)
 [![GitHub followers](https://img.shields.io/github/followers/Sinexhhh?label=Follow\&style=social)](https://github.com/Sinexhhh)
-![Java Full Stack](https://img.shields.io/badge/Java%20Full%20Stack%20Learner-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Java Full Stack](https://img.shields.io/badge/Java%20Full%20Stack%-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
 I'm currently pursuing **MCA** and building my skills in **Java Full Stack Development**. I enjoy learning through projects and working with backend technologies, databases, REST APIs, and frontend development.
 
@@ -71,14 +71,6 @@ A complete website developed for **VidiPixels Digital Marketing Agency**, focusi
 A simple Java-based console game that uses random number generation, user input, conditions, and basic programming logic.
 
 **Tech:** Java
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sinexhhh&theme=flat&no-frame=true&no-bg=true&margin-w=10)](https://github.com/Sinexhhh)
-
-</div>
 
 ## 📚 Books & Learning
 
