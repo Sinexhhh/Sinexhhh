@@ -2,26 +2,26 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sinexhhh\&color=blue)
 [![GitHub followers](https://img.shields.io/github/followers/Sinexhhh?label=Follow\&style=social)](https://github.com/Sinexhhh)
-![Java Full Stack Learner](https://img.shields.io/badge/Java%20Full%20Stack%20Learner-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Java Full Stack](https://img.shields.io/badge/Java%20Full%20Stack%20Learner-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-I'm currently pursuing **MCA** and building my skills in **Java Full Stack Development**. I enjoy learning by building projects and working with backend technologies, databases, REST APIs, and frontend development.
+I'm currently pursuing **MCA** and building my skills in **Java Full Stack Development**. I enjoy learning through projects and working with backend technologies, databases, REST APIs, and frontend development.
 
 ## 🎯 Currently Learning & Building
 
 * ☕ **Java** — OOP, Collections, Exception Handling, Multithreading
-* 🌱 **Spring** — Spring Boot, Spring MVC, Spring Security
+* 🌱 **Spring Boot** — Spring MVC, REST APIs, Spring Security
 * 🌐 **Web Development** — HTML, CSS, JavaScript
 * 🗄️ **Databases** — MySQL, PostgreSQL
-* 🔗 **REST APIs** — Building and consuming RESTful services
-* 🧩 **DSA** — Strengthening problem-solving and programming fundamentals
+* 🔗 **REST APIs** — Building and integrating RESTful services
+* 🧩 **Data Structures & Algorithms** — Improving problem-solving skills
 
 ## 🚀 About Me
 
 * 🎓 MCA Student at Chandigarh University
-* 💻 Learning and building applications with Java
-* 🏗️ Interested in backend and full-stack development
-* 📚 Improving my programming and problem-solving skills
-* 🤝 Open to learning and collaborating on beginner-friendly projects
+* 💻 Focused on Java Full Stack Development
+* 🏗️ Interested in backend and full-stack application development
+* 📚 Learning by building practical projects
+* 🤝 Open to collaboration and learning opportunities
 
 ## 🛠️ Tech Stack
 
@@ -51,17 +51,16 @@ I'm currently pursuing **MCA** and building my skills in **Java Full Stack Devel
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge\&logo=eclipseide\&logoColor=white)
 
 ## 📂 Projects
-## 📂 Projects
 
 ### 🏦 Smart Banking Management System
 
-A full-stack banking management system built using **Java and Spring Boot**, designed to handle core banking operations through a structured backend and REST APIs.
+A full-stack banking management system developed as a **major project** using Java and Spring Boot. The application focuses on core banking operations with a structured backend, REST APIs, and database integration.
 
 **Tech:** Java, Spring Boot, Spring MVC, REST API, MySQL
 
 ### 🌐 VidiPixels Digital Marketing Agency Website
 
-A complete website developed for **VidiPixels**, a digital marketing agency. The project focused on creating a professional web presence with a responsive layout and a clean, user-friendly interface.
+A complete website developed for **VidiPixels Digital Marketing Agency**, focusing on a professional online presence, responsive design, and a clean user experience.
 
 **Tech:** HTML, CSS, JavaScript
 
@@ -69,26 +68,15 @@ A complete website developed for **VidiPixels**, a digital marketing agency. The
 
 ### 🎮 Number Guessing Game
 
-A simple Java-based console game that uses random number generation, user input, and basic programming logic.
+A simple Java-based console game that uses random number generation, user input, conditions, and basic programming logic.
 
 **Tech:** Java
 
----
-
-### 🚀 Featured Project
-
-**Smart Banking Management System**
-My major project focused on applying **Spring Boot, REST APIs, database integration, and backend development** to build a practical banking application.
-
-> More projects will be added as I continue building and learning.
-
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sinexhhh&show_icons=true&theme=default&hide_title=true&hide=prs,issues" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinexhhh&layout=compact&theme=default&langs_count=6" height="170">
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sinexhhh&theme=flat&no-frame=true&no-bg=true&margin-w=10)](https://github.com/Sinexhhh)
 
 </div>
 
@@ -117,7 +105,7 @@ I'm always open to:
 * 💬 Discussing programming and development
 * 📚 Sharing useful learning resources
 * 🧩 Working on beginner-friendly projects
-* 🎯 Getting feedback and improving my work
+* 🎯 Getting feedback on my work
 
 ## 📫 Connect With Me
 
