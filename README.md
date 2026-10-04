@@ -17,7 +17,7 @@ I'm currently pursuing **MCA** and building my skills in **Java Full Stack Devel
 
 ## 🚀 About Me
 
-* 🎓 MCA Student
+* 🎓 MCA Student at Chandigarh University
 * 💻 Learning and building applications with Java
 * 🏗️ Interested in backend and full-stack development
 * 📚 Improving my programming and problem-solving skills
@@ -51,20 +51,34 @@ I'm currently pursuing **MCA** and building my skills in **Java Full Stack Devel
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge\&logo=eclipseide\&logoColor=white)
 
 ## 📂 Projects
+## 📂 Projects
 
-### 🔧 Currently Working On
+### 🏦 Smart Banking Management System
 
-* **E-Commerce Web Application** — Spring Boot + React
-* **Task Management System** — Spring Boot + MySQL
-* **Student Management System** — Spring MVC + MySQL
-* **Blog Application** — Spring Security + REST API
+A full-stack banking management system built using **Java and Spring Boot**, designed to handle core banking operations through a structured backend and REST APIs.
 
-### 📁 Other Projects
+**Tech:** Java, Spring Boot, Spring MVC, REST API, MySQL
 
-* **Employee Management System** — Spring Boot + MySQL
-* **Library Management System** — Java Servlet + JSP
-* **To-Do Application** — Spring Boot + Thymeleaf
-* **Weather App** — REST API Integration
+### 🌐 VidiPixels Digital Marketing Agency Website
+
+A complete website developed for **VidiPixels**, a digital marketing agency. The project focused on creating a professional web presence with a responsive layout and a clean, user-friendly interface.
+
+**Tech:** HTML, CSS, JavaScript
+
+> The VidiPixels website is currently not live.
+
+### 🎮 Number Guessing Game
+
+A simple Java-based console game that uses random number generation, user input, and basic programming logic.
+
+**Tech:** Java
+
+---
+
+### 🚀 Featured Project
+
+**Smart Banking Management System**
+My major project focused on applying **Spring Boot, REST APIs, database integration, and backend development** to build a practical banking application.
 
 > More projects will be added as I continue building and learning.
 
